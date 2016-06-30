@@ -1,0 +1,26 @@
+{
+  "name": "v-bus",
+  "version": "1.0.0",
+  "description": "Global Event Emitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunpal/v-bus.git"
+  },
+  "keywords": [
+    "event",
+    "emitter",
+    "global",
+    "event",
+    "emitter"
+  ],
+  "author": "Varun Pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varunpal/v-bus/issues"
+  },
+  "homepage": "https://github.com/varunpal/v-bus#readme"
+}
